@@ -7,12 +7,25 @@ CLS-RL explores fine-tuning Multimodal Large Language Models (MLLMs) for image c
 
 Key features of CLS-RL:
 * **Rule-based Reinforcement Learning:** Fine-tunes MLLMs using verifiable reward losses instead of token-level losses, guiding models to explore diverse reasoning.
+  
 * **"Free-Lunch" Phenomenon:** Demonstrates that fine-tuning with CLS-RL on one dataset can improve performance on other, distinct datasets.
+
+<table>
+ <tr>
+  <td width="50%">
+   <img src="r1_improve_heatmap.png" alt="">
+  </td>
+  <td width="50%">
+   <img src="direct_improve_heatmap.png" alt="">
+  </td>
+ </tr>
+</table>
+
 * **No-Thinking Variant:** Introduces No-Thinking-CLS-RL, which removes the thinking process during training, leading to improved performance and reduced training time.
+<img src="compare_difference_heatmap.png" alt="Alt text" width="600" height="600">
 
 
-
-The code is coming soon!
+## The code is coming soon!
 
 
 ## Acknowledgements
