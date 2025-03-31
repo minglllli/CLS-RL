@@ -26,6 +26,9 @@ Key features of CLS-RL:
 
 * **No-Thinking-RL on CVBench:** We follow [VisualThinker-R1-Zero](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) to fine-tune Qwen2-VL-2B-Instruct on SAT and then test on CVBench. We found that No-Thinking-RL surpasses VisualThinker-R1-Zero by 6% accuracy.
   
+Fine-tuned model of thinking RL (VisualThinker-R1-Zero). [🤗 Model on Hugging Face](https://huggingface.co/afdsafas/Qwen2-VL-2B-Instruct-SAT-generation4)
+
+Fine-tuned model of No-Thinking-RL. [🤗 Model on Hugging Face](https://huggingface.co/afdsafas/Qwen2-VL-2B-Instruct-SAT-generation4-Direct)
 | Model                | Total Accuracy | Count Acc | Relation Acc | Depth Acc | Distance Acc |
 |----------------------|---------------|-----------|--------------|-----------|--------------|
 | No-Thinking-RL      | 0.7676        | 0.6967    | 0.8446       | 0.8067    | 0.7383       |
