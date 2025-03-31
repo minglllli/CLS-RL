@@ -38,6 +38,13 @@ Fine-tuned model of No-Thinking-RL. [🤗 Model on Hugging Face](https://hugging
 ## The code is coming soon!
 
 
+## 📌 Open-source Plan
+
+- [ ] Release the fine-tuning and inference code.
+- [ ] Release the dataset.
+- [ ] Release the evaluation results.
+- [ ] Release the checkpoints.
+
 ## Acknowledgements
 
 Our code is based on **R1-V**. We thank the authors of **R1-V** for their open-source contributions.  
