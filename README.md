@@ -97,6 +97,7 @@ Fine-tuned model of thinking RL (VisualThinker-R1-Zero). [🤗 Model on Hugging 
 
 Fine-tuned model of No-Thinking-RL. [🤗 Model on Hugging Face](https://huggingface.co/afdsafas/Qwen2-VL-2B-Instruct-SAT-generation4-Direct)
 ## Inference
+We provide the [results](https://drive.google.com/drive/folders/1NXpGfWj1oazoK4SwzoDBqpV59Fjyi2od?usp=sharing) of classfication and CVBench for reference.
 ### Classification
 Download the [test prompt](https://drive.google.com/drive/folders/1Quqh2H3TkqX91Rc2YUdnPXixzDDFf1dy?usp=sharing) to src/eval/prompts/. 
 Follow [CoOp](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md) to download datasets and write the dataset path to src/eval/data_prefix.py.
@@ -120,10 +121,10 @@ bash test_cvbench.sh
 
 ## 📌 Open-source Plan
 
-- [ ] Release the fine-tuning and inference code.
-- [ ] Release the dataset.
-- [ ] Release the evaluation results.
-- [ ] Release the checkpoints.
+- [x] Release the fine-tuning and inference code.
+- [x] Release the dataset.
+- [x] Release the evaluation results.
+- [x] Release the checkpoints.
 
 ## Acknowledgements
 
