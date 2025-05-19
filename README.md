@@ -127,13 +127,10 @@ Our code is based on **R1-V**. We thank the authors of **R1-V** for their open-s
 
 ## Citation
 ```
-@misc{li2025clsrl,
-      title={CLS-RL: Image Classification with Rule-Based Reinforcement Learning}, 
-      author={Ming Li, Shitian Zhao, Jike Zhong, Yuxiang Lai, Kaipeng Zhang},
-      year={2025},
-      eprint={2503.16188},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={http://arxiv.org/2503.16188}, 
+@article{li2025think,
+  title={Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning},
+  author={Li, Ming and Zhong, Jike and Zhao, Shitian and Lai, Yuxiang and Zhang, Kaipeng},
+  journal={arXiv preprint arXiv:2503.16188},
+  year={2025}
 }
 ```
