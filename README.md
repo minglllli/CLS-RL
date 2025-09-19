@@ -1,7 +1,9 @@
 # Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning
 🗞️ News
 
-**2025/09/18:** Excited to share that Think or Not Think has been accepted to NeurIPS 2025 as a Spotlight paper! See you in San Diego!🔍 Overview
+**2025/09/18:** Excited to share that Think or Not Think has been accepted to NeurIPS 2025 as a Spotlight paper! See you in San Diego!
+
+🔍 Overview
 
 This paper investigates the role of explicit thinking process in rule-based reinforcement fine-tuning (RFT) for multi-modal large language models (MLLMs). We find several interesting findings of the thinking process of visual RFT.
 
